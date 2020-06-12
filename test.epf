@@ -1,0 +1,318 @@
+#Tue Jun 09 20:49:48 CST 2020
+\!/=
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/configuration/org.eclipse.epp.mpc.ui/showOpenFavoritesNotification=false
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=C\:\\Users\\myers\\workspace
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
+/configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=false
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=false
+/instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.fixLegacyEditors=1
+/instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.sdk=C\:\\Android\\android-sdk
+/instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.xmlEditor=true
+/instance/com.android.ide.eclipse.ddms/com.android.ide.eclipse.ddms.explorer.data=81
+/instance/com.android.ide.eclipse.ddms/com.android.ide.eclipse.ddms.explorer.info=83
+/instance/com.android.ide.eclipse.ddms/com.android.ide.eclipse.ddms.explorer.name=111
+/instance/com.android.ide.eclipse.ddms/com.android.ide.eclipse.ddms.explorer.permissions=83
+/instance/com.android.ide.eclipse.ddms/com.android.ide.eclipse.ddms.explorer.size=57
+/instance/com.android.ide.eclipse.ddms/com.android.ide.eclipse.ddms.explorer.time=46
+/instance/com.android.ide.eclipse.ddms/com.android.ide.eclipse.ddms.timeOut=20000
+/instance/com.android.ide.eclipse.ddms/ddms.logcat.auotmonitor.level=error
+/instance/com.android.ide.eclipse.ddms/ddms.logcat.automonitor.userprompt=true
+/instance/com.android.ide.eclipse.ddms/devicePanel.Col0=125
+/instance/com.android.ide.eclipse.ddms/devicePanel.Col1=53
+/instance/com.android.ide.eclipse.ddms/devicePanel.Col4=76
+/instance/com.android.ide.eclipse.ddms/heapPanel.col0=211
+/instance/com.android.ide.eclipse.ddms/heapPanel.col1=52
+/instance/com.android.ide.eclipse.ddms/heapPanel.col2=87
+/instance/com.android.ide.eclipse.ddms/heapPanel.col3=87
+/instance/com.android.ide.eclipse.ddms/heapPanel.col4=87
+/instance/com.android.ide.eclipse.ddms/heapPanel.col5=87
+/instance/com.android.ide.eclipse.ddms/heapPanel.col6=87
+/instance/com.android.ide.eclipse.ddms/logcat.messagelist.max.size=50000
+/instance/com.android.ide.eclipse.ddms/logcat.view.colsize.Application=156
+/instance/com.android.ide.eclipse.ddms/logcat.view.colsize.Level=30
+/instance/com.android.ide.eclipse.ddms/logcat.view.colsize.PID=58
+/instance/com.android.ide.eclipse.ddms/logcat.view.colsize.TID=58
+/instance/com.android.ide.eclipse.ddms/logcat.view.colsize.Tag=119
+/instance/com.android.ide.eclipse.ddms/logcat.view.colsize.Text=613
+/instance/com.android.ide.eclipse.ddms/logcat.view.colsize.Time=150
+/instance/com.android.ide.eclipse.ddms/logcat.view.filters.list=name\: 'com.example.simple (Session Filter)', tag\: '', text\: '', pid\: '', app\: 'com.example.simple', level\: 'verbose', 
+/instance/com.android.ide.eclipse.ddms/threadPanel.Col0=35
+/instance/com.android.ide.eclipse.ddms/threadPanel.Col1=49
+/instance/com.android.ide.eclipse.ddms/threadPanel.Col2=75
+/instance/com.android.ide.eclipse.ddms/threadPanel.Col3=46
+/instance/com.android.ide.eclipse.ddms/threadPanel.Col4=46
+/instance/com.android.ide.eclipse.ddms/threadPanel.Col5=306
+/instance/com.android.ide.eclipse.ddms/threadPanel.stack.col0=566
+/instance/org.eclipse.buildship.core/auto.sync=false
+/instance/org.eclipse.buildship.core/gradle.build.scans=false
+/instance/org.eclipse.buildship.core/gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+/instance/org.eclipse.buildship.core/gradle.offline.mode=false
+/instance/org.eclipse.cdt.core.prj-bullet3/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-text/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.debug.core/org.eclipse.cdt.debug.core.cDebug.default_source_containers=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<sourceLookupDirector>\r\n<sourceContainers duplicates\="false">\r\n<container memento\="AbsolutePath" typeId\="org.eclipse.cdt.debug.core.containerType.absolutePath"/>\r\n<container memento\="programRelativePath" typeId\="org.eclipse.cdt.debug.core.containerType.programRelativePath"/>\r\n<container memento\="&lt;?xml version\=&quot;1.0&quot; encoding\=&quot;UTF-8&quot; standalone\=&quot;no&quot;?&gt;&\#13;&\#10;&lt;project referencedProjects\=&quot;true&quot;/&gt;&\#13;&\#10;" typeId\="org.eclipse.cdt.debug.core.containerType.project"/>\r\n</sourceContainers>\r\n</sourceLookupDirector>\r\n
+/instance/org.eclipse.cdt.dsf.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test.cdt.managedbuild.target.gnu.mingw.exe.31633445/cdt.managedbuild.config.gnu.mingw.exe.debug.459928983=cdt.managedbuild.tool.gnu.archiver.mingw.base.1963321004\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1488797641\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.607024529\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.2123039746\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.config.gnu.mingw.exe.debug.459928983\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.debug.426832523\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.debug.1083635340\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.debug.1294228975\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test.cdt.managedbuild.target.gnu.mingw.exe.31633445/cdt.managedbuild.config.gnu.mingw.exe.release.2026960226=cdt.managedbuild.tool.gnu.archiver.mingw.base.1441545196\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.release.44114698\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.release.2142678572\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.release.494699962\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.release.556004946\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.release.1936626195\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.release.553574452\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test.cdt.managedbuild.target.gnu.mingw.exe.836130742/cdt.managedbuild.config.gnu.mingw.exe.debug.1264444115=cdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.debug.1350867696\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.711314447\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.config.gnu.mingw.exe.debug.1264444115\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.debug.1371147592\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.1342546537\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.debug.836441910\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.636356403\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.762967177\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test.cdt.managedbuild.target.gnu.mingw.exe.836130742/cdt.managedbuild.config.gnu.mingw.exe.release.1772511525=cdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.release.393091141\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.release.705734179\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.release.508247858\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.release.2087852746\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.release.1152710848\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.1832477347\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.release.605318956\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test.null.673633798/0.1144794325=org.eclipse.cdt.build.core.settings.holder.1196186353\=rebuildState\\\=false\\r\\n\r\norg.eclipse.cdt.build.core.settings.holder.82801924\=rebuildState\\\=false\\r\\n\r\norg.eclipse.cdt.build.core.settings.holder.libs.90080058\=rebuildState\\\=false\\r\\n\r\norg.eclipse.cdt.build.core.settings.holder.338200771\=rebuildState\\\=false\\r\\n\r\norg.eclipse.cdt.build.core.prefbase.toolchain.1488864117\=rebuildState\\\=false\\r\\n\r\n0.1144794325\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test.org.eclipse.linuxtools.cdt.autotools.core.projectType.1427352907/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.1948394435=org.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.gpp.333156577\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolChain.607534558\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.autogen.1697243856\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.configuration.build.1948394435\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.gcc.314234053\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.gnu.toolchain.tool.configure.443916212\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test.org.eclipse.linuxtools.cdt.autotools.core.projectType.1427352907/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.debug.1902410216=org.eclipse.linuxtools.cdt.autotools.core.toolChain.debug.126802014\=rebuildState\\\=true\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.gpp.debug.1973204423\=rebuildState\\\=true\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.gcc.debug.536741742\=rebuildState\\\=true\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.autogen.debug.859536217\=rebuildState\\\=true\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.gnu.toolchain.tool.configure.debug.1846257172\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test1.org.eclipse.linuxtools.cdt.autotools.core.projectType.859764749/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.549644510=org.eclipse.linuxtools.cdt.autotools.core.gnu.toolchain.tool.configure.506570761\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.configuration.build.549644510\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.gpp.1036371993\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.autogen.675356984\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolChain.588521080\=rebuildState\\\=true\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.gcc.1447496650\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test1.org.eclipse.linuxtools.cdt.autotools.core.projectType.859764749/org.eclipse.linuxtools.cdt.autotools.core.configuration.build.debug.1926972913=org.eclipse.linuxtools.cdt.autotools.core.toolChain.debug.1928294462\=rebuildState\\\=true\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.configuration.build.debug.1926972913\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.gpp.debug.89550989\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.gcc.debug.1781089259\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.toolchain.tool.autogen.debug.647259924\=rebuildState\\\=false\\r\\n\r\norg.eclipse.linuxtools.cdt.autotools.core.gnu.toolchain.tool.configure.debug.799952077\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/text.cdt.managedbuild.target.gnu.mingw.exe.1537953449/cdt.managedbuild.config.gnu.mingw.exe.debug.309375730=cdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.debug.27369937\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.95801398\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.2134117157\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1602055202\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.debug.1056397243\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.555060453\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.debug.1195794515\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/text.cdt.managedbuild.target.gnu.mingw.exe.377237308/cdt.managedbuild.config.gnu.mingw.exe.debug.888134513=cdt.managedbuild.toolchain.gnu.mingw.exe.debug.1405171350\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1392432617\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.2049367551\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.debug.659988596\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.debug.204312194\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.1490113624\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.1362025957\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/text.cdt.managedbuild.target.gnu.mingw.exe.377237308/cdt.managedbuild.config.gnu.mingw.exe.release.537350413=cdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.release.1246848467\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.1821939253\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.release.1706240817\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.release.934633618\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.release.197204835\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.release.1661011759\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.release.1039054684\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/text.cdt.managedbuild.target.gnu.mingw.exe.482087067/cdt.managedbuild.config.gnu.mingw.exe.debug.342459984=cdt.managedbuild.toolchain.gnu.mingw.exe.debug.1087140025\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.578129041\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.678777343\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.334620315\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.debug.1361294452\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.328636257\=rebuildState\\\=false\\r\\n\r\ncdt.managedbuild.config.gnu.mingw.exe.debug.342459984\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.debug.874777954\=rebuildState\\\=false\\r\\n\r\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/text.cdt.managedbuild.target.gnu.mingw.exe.482087067/cdt.managedbuild.config.gnu.mingw.exe.release.1407692632=cdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.release.742344604\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.release.176157504\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.release.1272543168\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.release.2037953725\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.archiver.mingw.base.203647482\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.toolchain.gnu.mingw.exe.release.1442736539\=rebuildState\\\=true\\r\\n\r\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.release.863816442\=rebuildState\\\=true\\r\\n\r\n
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.cdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.cdt.ui/wizard.preferred.toolchains=cdt.managedbuild.toolchain.gnu.mingw.exe.debug
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.core.resources/version=1
+/instance/org.eclipse.core.variables/org.eclipse.core.variables.valueVariables=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<valueVariables>\r\n<valueVariable description\="ChromeDevTools Protocol connection target host" name\="org.eclipse.wst.jsdt.chromium.debug.ui.chromium_debug_host" readOnly\="false" value\="localhost"/>\r\n<valueVariable description\="ChromeDevTools Protocol connection port" name\="org.eclipse.wst.jsdt.chromium.debug.ui.chromium_debug_port" readOnly\="false" value\="9222"/>\r\n</valueVariables>\r\n
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.applicationLaunchType=org.eclipse.cdt.dsf.gdb.launch.localCLaunch,debug,;org.eclipse.cdt.cdi.launch.localCLaunch,run,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.attachLaunchType=org.eclipse.cdt.dsf.gdb.launch.attachCLaunch,debug,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.postmortemLaunchType=org.eclipse.cdt.dsf.gdb.launch.coreCLaunch,debug,;
+/instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions/>\r\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryView.orientation=0
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives>\r\n<launchPerspective configurationType\="org.eclipse.cdt.launch.applicationLaunchType" mode\="debug" perspective\="org.eclipse.cdt.ui.CPerspective"/>\r\n<launchPerspective configurationType\="org.eclipse.cdt.launch.applicationLaunchType" delegate\="org.eclipse.cdt.dsf.gdb.launch.localCLaunch" mode\="debug" perspective\="org.eclipse.cdt.ui.CPerspective"/>\r\n</launchPerspectives>\r\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.save_dirty_editors_before_launch=never
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.user_view_bindings=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<viewBindings>\r\n<view id\="org.eclipse.debug.ui.VariableView">\r\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n</view>\r\n<view id\="org.eclipse.debug.ui.BreakpointView">\r\n<perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n</view>\r\n</viewBindings>\r\n
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.BreakpointView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.BreakpointView">\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="org.eclipse.debug.ui.check"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.VariableView">\r\n<INTEGER IMemento.internal.id\="initialChildCountLimitForCollections" INTEGER\="100"/>\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="PRESENTATION_SHOW_LOGICAL_STRUCTURES"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
+/instance/org.eclipse.debug.ui/preferredDetailPanes=NumberFormatPane\:NumberFormatPane|DefaultDetailPane\:DefaultDetailPane|
+/instance/org.eclipse.debug.ui/preferredTargets=org.eclipse.cdt.debug.ui.toggleCBreakpointTarget\:org.eclipse.cdt.debug.ui.toggleCBreakpointTarget|default\:default|default,org.eclipse.wst.jsdt.chromium.debug.ui.toggleTargetId\:default|org.eclipse.cdt.debug.ui.toggleCBreakpointTarget,org.eclipse.cdt.debug.ui.toggleCDynamicPrintfTarget\:org.eclipse.cdt.debug.ui.toggleCBreakpointTarget|
+/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=C\:\\Users\\myers\\Desktop\\projects\\bullet\\bullet3\\.git;C\:\\Users\\myers\\Desktop\\\u6559\u5B66\u6587\u6863\\IntelligenceClassRoom\\.git;
+/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=C\:\\Users\\myers\\Desktop\\projects\\bullet\\bullet3\\.git;C\:\\Users\\myers\\Desktop\\\u6559\u5B66\u6587\u6863\\IntelligenceClassRoom\\.git;
+/instance/org.eclipse.epp.logging.aeri.ide/configured=true
+/instance/org.eclipse.epp.logging.aeri.ide/resetSendMode=KEEP
+/instance/org.eclipse.epp.logging.aeri.ide/resetSendModeOn=0
+/instance/org.eclipse.epp.logging.aeri.ide/sendMode=NOTIFY
+/instance/org.eclipse.epp.logging.aeri.ide/servers/org.eclipse.epp.logging.aeri.ide.server/configured=true
+/instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=http\://marketplace.eclipse.org
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/myers/Desktop/eclipse/
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk1.8.0_65/jre/lib/rt.jar
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk1.8.0_65/src.zip
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/myers/Desktop/eclipse/plugins/org.junit_4.12.0.v201504281640/
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO=D\:/apache-maven-3.1.0/repository
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.userLibrary.hibernate=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/antlr-2.7.6.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/asm.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/asm-attrs.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/c3p0-0.9.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/cglib-2.1.3.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/commons-collections-2.1.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/concurrent-1.3.2.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/connector.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/dom4j-1.6.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/ehcache-1.2.3.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/ejb3-persistence.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/hibernate3.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/hibernate-annotations.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/hibernate-commons-annotations.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/hibernate-entitymanager.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/hibernate-validator.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jaas.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jacc-1_0-fr.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/javassist.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jaxen-1.1-beta-7.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jboss-archive-browsing.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jboss-cache.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jboss-common.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jboss-jmx.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jboss-system.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jdbc2_0-stdext.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jgroups-2.2.8.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/jta.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/log4j-1.2.11.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/oscache-2.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/proxool-0.8.3.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/swarmcache-1.0rc2.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/xerces-2.6.2.jar"/>\r\n\t<archive path\="C\:/Users/myers/Desktop/\u5B9E\u9A8C\u62A5\u544A\uFF08\u7F3A1\u30014\uFF09/hibernate/xml-apis.jar"/>\r\n</userlibrary>\r\n
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.userLibrary.jadex=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/activation-1.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/annotations-3.0.0.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/antlr-2.7.7.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/antlr-runtime-3.1.3.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/asm-all-5.0.3.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/bridj-0.6.2.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/collections-generic-4.01.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/colt-1.2.0.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/concurrent-1.3.4.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/core-1.54.0.0.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/de.huxhorn.sulky.3rdparty.jlayer-1.0.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/dx-1.7.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/filters-2.0.235-1.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/gluegen-rt.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/h2-1.3.171.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/hamcrest-core-1.3.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-applib-bdi-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-applications-bdi-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-applications-bdiv3-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-applications-bpmn-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-applications-java8-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-applications-micro-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-applications-mixed-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-bridge-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-commons-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-commons-gui-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-commons-security-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-integration-test-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-javaparser-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-json-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-kernel-application-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-kernel-base-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-kernel-bdiv3-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-kernel-bpmn-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-kernel-component-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-kernel-extension-agr-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-kernel-extension-envsupport-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-kernel-extension-envsupport-opengl-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-kernel-micro-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-model-bpmn-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-platform-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-platform-standalone-launch-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-rules-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-rules-applications-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-rules-eca-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-rules-tools-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-runtimetools-swing-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-tools-base-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-tools-base-swing-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-tools-bdi-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-tools-benchmarks-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-tools-bpmn-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-tools-comanalyzer-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jadex-xml-3.0.98.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jcalendar-1.3.2.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jcodec-0.1.5.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jcommon-1.0.15.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jfreechart-1.0.12.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jna-4.2.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jna-platform-4.2.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jogl.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jung-algorithms-2.0.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jung-api-2.0.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jung-graph-impl-2.0.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/jung-visualization-2.0.1.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/junit-4.11.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/mail-1.4.5.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/minimal-json-0.9.4.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/prov-1.54.0.0.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/slf4j-api-1.7.2.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/smack-3.1.0.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/smackx-3.1.0.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/stringtemplate-3.2.jar"/>\r\n\t<archive path\="C\:/Users/myers/workspace/jadex-standard-3.0.98/jadex-3.0.98/lib/webcam-capture-0.3.9.jar"/>\r\n</userlibrary>\r\n
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.VariableView.org.eclipse.jdt.debug.ui.show_null_entries=true
+/instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.content_assist_favorite_static_members_migrated=true
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1527080604619" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1527080604619" name\="jdk1.8.0_65" path\="C\:\\Program Files\\Java\\jdk1.8.0_65"/>\r\n</vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.jdt.ui/MemberFilterActionGroup.org.eclipse.jdt.ui.JavaOutlinePage.2=true
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_delay=20
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVW
+/instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.awt.Paint"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Transparency"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Color"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Integer"/></lhs><lhs name\="android.graphics.Typeface"><rhs name\="android.graphics.Typeface"/></lhs><lhs name\="java.lang.Enum"><rhs name\="android.graphics.Paint$Align"/><rhs name\="android.graphics.Bitmap$Config"/></lhs><lhs name\="android.os.Parcelable"><rhs name\="android.graphics.Bitmap"/></lhs></history>
+/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=24
+/instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
+/instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=0,0,0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.navigator.layout=2
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=13
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.code_templates_migrated=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.templates_migrated=true
+/instance/org.eclipse.jdt.ui/sourceHoverBackgroundColor=255,255,225
+/instance/org.eclipse.jdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.jdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.jst.j2ee.webservice.ui/areThereWebServices=false
+/instance/org.eclipse.jst.jsp.core/org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager=JSP Index Manager v3.9.2_20171107_01
+/instance/org.eclipse.jst.jsp.ui/newFileTemplateName=New JSP File (html)
+/instance/org.eclipse.jst.server.tomcat.core/locationorg.eclipse.jst.server.tomcat.runtime.70=D\:/apache-tomcat-7.0.92
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/ChatFrame\ (1)=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/Tomcat\ v7.0\ Server\ at\ localhost=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/main=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/main\ (1)=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/sy=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/test\ Build\ (GNU)=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/configs/text.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+/instance/org.eclipse.launchbar.core/configDescList=org.eclipse.launchbar.core.descriptorType.default\:ASMBDIClassGenerator,org.eclipse.launchbar.core.descriptorType.default\:ChatFrame (1),org.eclipse.launchbar.core.descriptorType.default\:ChatFrame,org.eclipse.launchbar.core.descriptorType.default\:ChatFrameServer,org.eclipse.launchbar.core.descriptorType.default\:main (1),org.eclipse.launchbar.core.descriptorType.default\:main (2),org.eclipse.launchbar.core.descriptorType.default\:main,org.eclipse.launchbar.core.descriptorType.default\:my,org.eclipse.launchbar.core.descriptorType.default\:New_configuration,org.eclipse.launchbar.core.descriptorType.default\:ReExport,org.eclipse.launchbar.core.descriptorType.default\:RemoteFile,org.eclipse.launchbar.core.descriptorType.default\:simple (1),org.eclipse.launchbar.core.descriptorType.default\:simple,org.eclipse.launchbar.core.descriptorType.default\:sy,org.eclipse.launchbar.core.descriptorType.default\:test Build (GNU),org.eclipse.launchbar.core.descriptorType.default\:test.exe,org.eclipse.launchbar.core.descriptorType.default\:TestUserServiceImpl,org.eclipse.launchbar.core.descriptorType.default\:text.exe,org.eclipse.launchbar.core.descriptorType.default\:Tomcat v7.0 Server at localhost,org.eclipse.launchbar.core.descriptorType.default\:helloworld,org.eclipse.launchbar.core.descriptorType.default\:Starter,org.eclipse.launchbar.core.descriptorType.default\:main (3),org.eclipse.launchbar.core.descriptorType.default\:main (4)
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:ASMBDIClassGenerator/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:ASMBDIClassGenerator/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:ChatFrame\ (1)/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:ChatFrame\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:TestUserServiceImpl/activeLaunchMode=debug
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Tomcat\ v7.0\ Server\ at\ localhost/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:main\ (1)/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:main\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:main/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:main/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:my/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:my/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:simple/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:sy/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:test\ Build\ (GNU)/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:test.exe/activeLaunchMode=run
+/instance/org.eclipse.launchbar.ui.controls/ConfigSelector.shell.h=300
+/instance/org.eclipse.launchbar.ui.controls/ConfigSelector.shell.w=250
+/instance/org.eclipse.launchbar.ui.controls/ModeSelector.shell.h=118
+/instance/org.eclipse.launchbar.ui.controls/ModeSelector.shell.w=150
+/instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile=D\:\\apache-maven-3.1.0-bin\\apache-maven-3.1.0\\conf\\settings.xml
+/instance/org.eclipse.m2e.discovery/org.eclipse.m2e.discovery.pref.projects=
+/instance/org.eclipse.mylyn.context.core/mylyn.attention.migrated=true
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_10_0=1
+/instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_1_0=1
+/instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
+/instance/org.eclipse.mylyn.tasks.ui/migrated.task.repositories.secure.store=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+/instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.welcome.message=true
+/instance/org.eclipse.oomph.workingsets/working.set.group=<?xml version\="1.0" encoding\="UTF-8"?>\n<workingsets\:WorkingSetGroup xmi\:version\="2.0" xmlns\:xmi\="http\://www.omg.org/XMI" xmlns\:workingsets\="http\://www.eclipse.org/oomph/workingsets/1.0"/>\n
+/instance/org.eclipse.pde.api.tools/knownEEFragments=
+/instance/org.eclipse.pde.core/workspace_target_handle=local\:1528729113013.target
+/instance/org.eclipse.recommenders.completion.rcp/completion_tips_seen=org.eclipse.recommenders.completion.rcp.tips.discovery\:org.eclipse.recommenders.completion.rcp.tips.types
+/instance/org.eclipse.recommenders.models.rcp/ignore.download.failures=always
+/instance/org.eclipse.rse.core/activeuserprofiles=DESKTOP-2QF93S6;Team
+/instance/org.eclipse.rse.core/org.eclipse.rse.systemtype.local.systemType.defaultUserId=myers
+/instance/org.eclipse.rse.core/useridperkey=DESKTOP-2QF93S6.Local\=myers;
+/instance/org.eclipse.rse.ui/org.eclipse.rse.preferences.order.connections=DESKTOP-2QF93S6.Local
+/instance/org.eclipse.search/org.eclipse.search.defaultPerspective=org.eclipse.search.defaultPerspective.none
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
+/instance/org.eclipse.ui.browser/browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n</web-browsers>
+/instance/org.eclipse.ui.browser/internalWebBrowserHistory=http\://localhost\:8080/scs12/manage.jsp|*|http\://localhost\:8080/scs12/studentController/studentlist|*|http\://localhost\:8080/scs12/userController/login?id\=1201900101&pass\=666666|*|http\://localhost\:8080/scs12/userController/userlist|*|http\://localhost\:8080/scs12/index.jsp|*|http\://localhost\:8080/scs12/timerController/stop|*|http\://localhost\:8080/scs12/timerController/timer|*|http\://localhost\:8080/scs12/courseController/coursetable|*|http\://localhost\:8080/scs12/classesController/classeslist|*|http\://localhost\:8080/scs12/userController/login?id\=300000&pass\=510813|*|http\://localhost\:8080/scs12/courseController/courselist|*|http\://localhost\:8080/scs12/userController/cancel|*|http\://localhost\:8080/scs12/userController/login?id\=30000&pass\=510813|*|http\://localhost\:8080/scs12/WEB-INF/classes/com/yueqian/cn/controller/UserController.java|*|http\://localhost\:8080/scs12/WEB-INF/classes/com/yueqian/cn/task/CTaskListener.java|*|http\://localhost\:8080/scs12/lastyx.jsp|*|http\://localhost\:8080/scs12/classesController/lastyx|*|http\://localhost\:8080/scs12/classesController/lastyx?id\=1201900101&pass\=666666|*|http\://localhost\:8080/scs12/UserList.jsp|*|http\://localhost\:8080/scs12/classesController/changelist|*|http\://localhost\:8080/scs12/classes.jsp|*|http\://localhost\:8080/scs12/userController/changelist|*|http\://localhost\:8080/scs12/classesController/yxclasses|*|http\://localhost\:8080/scs12/courseController/yxclasses|*|http\://localhost\:8080/scs12/userController/index.jsp|*|http\://localhost\:8080/scs12/adduser.jsp|*|http\://localhost\:8080/scs12/userController/login?id\=1201900102&pass\=666666|*|http\://localhost\:8080/scs12/coursetable.jsp|*|http\://localhost\:8080/scs12/studentController/addstudent|*|http\://localhost\:8080/scs12/userController/deleteuser|*|http\://localhost\:8080/scs12/userController/adduser|*|http\://localhost\:8080/scs12/userController/login?id\=300000&pass\=000000|*|http\://localhost\:8080/scs12/course.jsp|*|http\://localhost\:8080/scs12/classroom.jsp|*|http\://localhost\:8080/scs12/classroomController/classroomlist|*|http\://localhost\:8080/scs12/student.jsp|*|http\://localhost\:8080/scs12/userController/selectid?id\=1201900102|*|http\://localhost\:8080/scs12/userController/selectid?id\=12019|*|http\://localhost\:8080/scs12/userController/selectid?id\=300000|*|http\://localhost\:8080/scs12/userController/userlist?id\=300000|*|http\://localhost\:8080/scs12/UserList.jsp?id\=1201900102|*|http\://localhost\:8080/scs12/WEB-INF/classes/com/yueqian/cn/dao/userMapper.java|*|http\://localhost\:8080/scs12/userController/login?id\=300001&pass\=000000|*|http\://localhost\:8080/scs12/userController/login|*|http\://localhost\:8080/scs12/userController/login?id\=300000&pass\=5108813|*|http\://localhost\:8080/scs12/userController/login?id\=300000&pass\=5110813|*|http\://localhost\:8080/scs12/userController/repass|*|http\://localhost\:8080/scs12/repass.jsp|*|http\://localhost\:8080/scs12/userController/regis|*|http\://localhost\:8080/scs12/regis.jsp|*|
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+/instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_RELATIVE=true
+/instance/org.eclipse.ui.ide/IMPORT_FILES_AND_FOLDERS_TYPE=23,1\:7,1
+/instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.ide/TASKS_FILTERS_MIGRATE=true
+/instance/org.eclipse.ui.ide/platformState=1527077736204
+/instance/org.eclipse.ui.ide/quickStart=false
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.wst.xml.views.XPathView.processor.xpathprocessor/org.eclipse.ui.commands.radioState=xpath10
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jface.textfont
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+/instance/org.eclipse.ui.workbench/REMOTE_COMMANDS_VIEW_FONT=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/UIActivities.org.eclipse.cdt.debug.dsfgdbActivity=true
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.debug.ui.ModulesDetailPaneFont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.compare.AsmMergeViewer=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.compare.CMergeViewer=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.make.internal.ui.compare.MakefileMergeViewer=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.buildconsole.ConsoleFont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.editors.textfont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.DetailPaneFont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.MemoryViewTableFont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.consoleFont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageEditorFont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageFont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineFont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.PropertiesFileMergeViewer=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.pde.internal.ui.compare.ManifestContentMergeViewer=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.pde.internal.ui.compare.PluginContentMergeViewer=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.internal.ui.compare.JavaMergeViewer=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.editors.textfont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.wst.sse.ui.textfont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui.workbench/terminal.views.view.font.definition=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.ui/showIntro=false
+/instance/org.eclipse.wst.css.ui/newFileTemplateName=New CSS File
+/instance/org.eclipse.wst.html.ui/newFileTemplateName=New HTML File (5)
+/instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.PREF_JS_RUNTIME_INSTALLS_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimeSettings/>\r\n
+/instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.codeComplete.visibilityCheck=enabled
+/instance/org.eclipse.wst.jsdt.debug.core/org.eclipse.wst.jsdt.debug.core.suspend_on_all_script_loads=false
+/instance/org.eclipse.wst.jsdt.debug.core/org.eclipse.wst.jsdt.debug.core.suspend_on_thrown_exceptions=true
+/instance/org.eclipse.wst.jsdt.ui/fontPropagated=true
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.jface.textfont=1|Consolas|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.internal.ui.navigator.layout=1
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.editor.tab.width=
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.formatterprofiles.version=11
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.javadoclocations.migrated=true
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.text.templates_migrated=true
+/instance/org.eclipse.wst.jsdt.ui/proposalOrderMigrated=true
+/instance/org.eclipse.wst.jsdt.ui/tabWidthPropagated=true
+/instance/org.eclipse.wst.jsdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.wst.jsdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.wst.jsdt.web.core/jspIndexState=1
+/instance/org.eclipse.wst.server.core/module-start-timeout=300000
+/instance/org.eclipse.wst.server.core/runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="Apache Tomcat v7.0" location\="D\:/apache-tomcat-7.0.92" name\="Apache Tomcat v7.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.70" timestamp\="0"/>\r\n</runtimes>\r\n
+/instance/org.eclipse.wst.sse.ui/content_assist_number_of_computers=22
+/instance/org.eclipse.wst.sse.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.wst.sse.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.wst.xml.ui/newFileTemplateName=xml declaration
+@com.android.ide.eclipse.adt=23.0.4.1468518
+@com.android.ide.eclipse.ddms=23.0.4.1468518
+@org.eclipse.buildship.core=2.2.1.v20180125-1441
+@org.eclipse.cdt.debug.core=8.3.0.201802261533
+@org.eclipse.cdt.dsf.ui=2.5.0.201802261533
+@org.eclipse.cdt.managedbuilder.core=8.6.0.201802261533
+@org.eclipse.cdt.ui=6.3.0.201802261533
+@org.eclipse.core.net=1.3.100.v20170516-0820
+@org.eclipse.core.resources=3.12.0.v20170417-1558
+@org.eclipse.core.variables=3.4.0.v20170113-2056
+@org.eclipse.debug.core=3.11.0.v20170605-1534
+@org.eclipse.debug.ui=3.12.50.v20170920-1329
+@org.eclipse.egit.core=4.9.2.201712150930-r
+@org.eclipse.epp.logging.aeri.ide=2.0.7.v20170906-1327
+@org.eclipse.epp.mpc.ui=1.6.4.v20180214-1800
+@org.eclipse.jdt.core=3.13.102.v20180330-0919
+@org.eclipse.jdt.debug.ui=3.8.100.v20180322-1256
+@org.eclipse.jdt.junit=3.10.75.v20180322-1731
+@org.eclipse.jdt.launching=3.9.100.v20180323-1351
+@org.eclipse.jdt.ui=3.13.100.v20180330-0726
+@org.eclipse.jst.j2ee.webservice.ui=1.1.600.v201701262104
+@org.eclipse.jst.jsp.core=1.2.1002.v201711072103
+@org.eclipse.jst.jsp.ui=1.1.1201.v201710051737
+@org.eclipse.jst.server.tomcat.core=1.1.901.v201711152105
+@org.eclipse.launchbar.core=2.2.0.201711162100
+@org.eclipse.launchbar.ui.controls=1.0.1.201711162100
+@org.eclipse.m2e.core=1.8.3.20180227-2137
+@org.eclipse.m2e.discovery=1.8.3.20180227-2137
+@org.eclipse.mylyn.context.core=3.23.0.v20170411-2108
+@org.eclipse.mylyn.java.ui=3.23.0.v20170411-2108
+@org.eclipse.mylyn.monitor.ui=3.23.0.v20170411-1844
+@org.eclipse.mylyn.tasks.ui=3.23.1.v20170623-0008
+@org.eclipse.oomph.workingsets=1.8.0.v20170318-0419
+@org.eclipse.pde.api.tools=1.1.150.v20180328-0710
+@org.eclipse.pde.core=3.11.101.v20171228-1230
+@org.eclipse.recommenders.completion.rcp=2.5.2.v20180401-1226
+@org.eclipse.recommenders.models.rcp=2.5.2.v20180401-1226
+@org.eclipse.rse.core=3.3.100.201603151753
+@org.eclipse.rse.ui=3.3.400.201704241037
+@org.eclipse.search=3.11.100.v20170515-1603
+@org.eclipse.team.ui=3.8.1.v20170515-1133
+@org.eclipse.ui=3.109.0.v20170411-1742
+@org.eclipse.ui.browser=3.6.100.v20170418-1342
+@org.eclipse.ui.editors=3.11.0.v20170202-1823
+@org.eclipse.ui.ide=3.13.1.v20170822-1526
+@org.eclipse.ui.workbench=3.110.1.v20170704-1208
+@org.eclipse.wst.css.ui=1.0.1100.v201704250105
+@org.eclipse.wst.html.ui=1.0.1200.v201608060428
+@org.eclipse.wst.jsdt.core=2.0.301.v201710051729
+@org.eclipse.wst.jsdt.debug.core=3.2.200.v201610211901
+@org.eclipse.wst.jsdt.ui=2.0.301.v201710051729
+@org.eclipse.wst.jsdt.web.core=1.0.901.v201707142218
+@org.eclipse.wst.server.core=1.10.0.v201705172051
+@org.eclipse.wst.sse.ui=1.3.600.v201707042340
+@org.eclipse.wst.ws.service.policy=1.0.450.v201505131719
+@org.eclipse.wst.xml.ui=1.1.800.v201704102213
+file_export_version=3.0
