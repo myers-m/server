@@ -28,7 +28,7 @@ public class server {
 	
 	public void create() throws IOException{
 		this.Myserver=new ServerSocket(this.port);
-		System.out.print("create success");
+		//System.out.print("create success");
 		while(true) {
 			Socket s=this.Myserver.accept();
 			service service = new service(s);

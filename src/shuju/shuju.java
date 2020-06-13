@@ -18,6 +18,6 @@ public class shuju {
 	public static table Mytable;
 	public static servicetask Mytask;
 	
-	public static int tableid=0;
+	public static int tableid=1;
 	public static int id=0;
 }
