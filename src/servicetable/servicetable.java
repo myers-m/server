@@ -30,8 +30,6 @@ public class servicetable {
 	
 	public void rear(int id) {
 		if(this.Idlist.contains(id)) {
-			shuju.list.get(shuju.Myserver.findid(id)).table=0;
-			shuju.list.get(shuju.Myserver.findid(id)).intable=false;
 			this.Idlist.remove((Object)id);
 			this.change();
 			if(this.Idlist.size()==0) {

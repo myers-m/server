@@ -77,8 +77,10 @@ public class servicetask {
 		if(tid==0) {
 			return false;
 		}
-		shuju.list.get(pid).table=0;
 		shuju.Mytable.findtable(tid).rear(id);
+		shuju.list.get(pid).table=0;
+		shuju.list.get(pid).intable=false;
+		shuju.list.get(pid).team.clear();
 		return true;
 	}
 	
@@ -94,10 +96,13 @@ public class servicetask {
 			//System.out.println(pid);
 			//System.out.println(shuju.list.size());
 			int id=shuju.list.get(pid).team.get(i);
-			if(value!="") {
-				value+="_";
+			String need=shuju.list.get(shuju.Myserver.findid(id)).tablestr1;
+			if(!need.equals("")) {
+				if(value!="") {
+					value+="_";
+				}
+				value+=need;
 			}
-			value+=shuju.list.get(shuju.Myserver.findid(id)).tablestr1;
 		}
 		value+="%"+value1;
 		return value;
@@ -114,6 +119,9 @@ public class servicetask {
 						value+="%";
 					}
 					value+="in"+t.Idlist.get(i)+","+shuju.list.get(shuju.Myserver.findid(t.Idlist.get(i))).color;
+				}
+				else {
+					bl=true;
 				}
 			}
 		}
