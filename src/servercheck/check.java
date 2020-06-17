@@ -2,6 +2,10 @@ package servercheck;
 
 import java.util.Calendar;
 
+
+import date.date;
+import shuju.shuju;
+
 import java.lang.String;
 
 public class check {
@@ -17,6 +21,28 @@ public class check {
 			return true;
 		}
 		return false;
+	}
+	
+	public String runcheckversion(String version) {
+		String V=version.replace("version:", "");
+		System.out.println(version);
+		if(date.Isint(V)) {
+			int vs=Integer.valueOf(V);
+			if(shuju.version>vs) {
+				if(vs>=shuju.allowversion) {
+					return "false"+vs;
+				}
+				else {
+					return "error";
+				}
+			}
+			else {
+				return "true";
+			}
+		}
+		else {
+		return "error";
+		}
 	}
 	
 	boolean checktime() {

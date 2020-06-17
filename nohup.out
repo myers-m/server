@@ -1,0 +1,246 @@
+nohup: ignoring input
+****166113643
+166113641
+166113642
+166113643
+****166113660
+166113658
+166113659
+166113660
+intable
+intable
+****166113717
+166113715
+166113716
+166113717
+intable
+this123***1
+intable
+this123***1
+intable
+this123***1
+intable
+this123***1
+****166114138
+166114136
+166114137
+166114138
+intable
+this123***1
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.run(service.java:45)
+	at java.lang.Thread.run(Thread.java:748)
+****166114745
+166114744
+166114745
+intable
+****166114804
+166114802
+166114803
+166114804
+****166114811
+166114809
+166114810
+166114811
+intable
+intable
+this123***1
+intable
+this123***1
+intable
+this123***1
+intable
+this123***1
+this123***1
+this123***1
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+****166122460
+166122457
+166122458
+166122459
+****166122754
+166122751
+166122752
+166122753
+****166122811
+166122808
+166122809
+166122810
+****166123029
+166123026
+166123027
+166123028
+****166123216
+166123214
+166123215
+166123216
+****166125201
+166125199
+166125200
+166125201
+intable
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+this123***2
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+****166174005
+166174004
+166174005
+****166174009
+166174007
+166174008
+166174009
+intable
+intable
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.run(service.java:45)
+	at java.lang.Thread.run(Thread.java:748)
+this123***3
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+****166185416
+166185414
+166185415
+166185416
+intable
+this123***4
+java.net.SocketException: Broken pipe (Write failed)
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:143)
+	at service.service.set(service.java:92)
+	at service.service.run(service.java:45)
+	at java.lang.Thread.run(Thread.java:748)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:127)
+	at service.service.get(service.java:79)
+	at service.service.check(service.java:62)
+	at service.service.run(service.java:43)
+	at java.lang.Thread.run(Thread.java:748)
+****166205060
+166205099
+166205100
+166205101
+****166205106
+166205105
+166205106
+intable
+this123***5

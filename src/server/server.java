@@ -23,6 +23,8 @@ public class server {
 		shuju.Mycheck=new check();
 		shuju.Mytable=new table();
 		shuju.Mytask=new servicetask();
+		//shuju.vm=new VersionManager();
+		//new Thread(shuju.vm).start();
 		new Thread(this.Mycontroller).start();
 	}
 	

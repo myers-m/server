@@ -8,6 +8,7 @@ import service.service;
 import service.servicetask;
 import servicetable.servicetable;
 import servicetable.table;
+import versionmanager.VersionManager;
 
 public class shuju {
 	public static ArrayList<service> list=new ArrayList<service>();
@@ -20,4 +21,8 @@ public class shuju {
 	
 	public static int tableid=1;
 	public static int id=0;
+	
+	public static int version=10001;
+	public static int allowversion=10000;
+	public static VersionManager vm;
 }

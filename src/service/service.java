@@ -7,7 +7,6 @@ import java.net.Socket;
 import java.net.SocketException;
 import java.util.ArrayList;
 
-
 import shuju.shuju;
 
 public class service implements Runnable{
@@ -21,12 +20,18 @@ public class service implements Runnable{
 	
 	public boolean change=false;
 	
-	public boolean run=true;
+	public boolean run=false;
 	
 	public String tablestr1="";
 	public String color="";
 	
 	public ArrayList<Integer> team=new ArrayList<Integer>();
+	
+	String getstr="";
+	String setstr="";
+	
+	InputStream in;
+	OutputStream out;
 	
 	public service(Socket socket) throws SocketException {
 		this.socket=socket;
@@ -38,12 +43,16 @@ public class service implements Runnable{
 	@Override
 	public void run() {
 		try {
-			OutputStream out = this.socket.getOutputStream();
-			InputStream in = this.socket.getInputStream();
-			if(this.check(in,out)) {
-			while(this.run) {
-				this.set(out,shuju.Mytask.dosomething(this.get(in),this.id));
-			}
+			this.out = this.socket.getOutputStream();
+			this.in = this.socket.getInputStream();
+			if(this.check()) {
+				//if(this.checkversion()) {
+					while(this.run) {
+						this.getstr=this.get();
+						this.setstr=shuju.Mytask.dosomething(this.getstr,this.id);
+						this.set(this.setstr);
+					}
+				//}
 			}
 			in.close();
 			out.close();
@@ -58,18 +67,52 @@ public class service implements Runnable{
 		shuju.list.remove(this);
 	}
 	
-	boolean check(InputStream in,OutputStream out) throws IOException{
-		boolean res=shuju.Mycheck.runcheck(this.get(in));
+	boolean check() throws IOException{
+		boolean res=true;
+		this.get();
+		res=shuju.Mycheck.runcheck(this.get());
 		if(res) {
-			this.set(out, "connect success");
+			this.set("connect success");
 		}
 		else {
-			this.set(out, "get out now");
+			this.set("get out now");
 		}
 		return res;
 	}
 	
-	String get(InputStream in) throws IOException {
+	boolean checkversion() throws IOException {
+		boolean res=true;
+		String need=shuju.Mycheck.runcheckversion(this.get());
+		System.out.print(need);
+		if(need.equals("true")) {
+			res=true;
+		}
+		else if(need.equals("error")) {
+			res=false;
+		}
+		else {
+			int vs=Integer.valueOf(need.replace("false", ""));
+			this.set( ""+(shuju.version-vs));
+			System.out.print("this");
+			while(true) {
+				if(vs==shuju.version) {
+					break;
+				}
+				vs+=1;
+				if(this.get().equals("update ready")) {
+				shuju.vm.Version(vs,out,this);
+				}
+				else {
+					this.run=false;
+					break;
+				}
+			}
+			res=true;
+		}
+		return res;
+	}
+	
+	public String get() throws IOException {
 		byte[] need = new byte[1024];
 		String res = "";
 		
@@ -86,8 +129,8 @@ public class service implements Runnable{
 		return res;
 	}
 	
-	void set(OutputStream out,String need) throws IOException {
-		//System.out.println(need);
+	void set(String need) throws IOException {
+		System.out.println(need);
 	    String message = need;
 		out.write(message.getBytes());
 		out.flush();
