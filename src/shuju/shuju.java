@@ -8,6 +8,7 @@ import service.service;
 import service.servicetask;
 import servicetable.servicetable;
 import servicetable.table;
+import sql.sqlmanager;
 import versionmanager.VersionManager;
 
 public class shuju {
@@ -18,6 +19,7 @@ public class shuju {
 	public static check Mycheck;
 	public static table Mytable;
 	public static servicetask Mytask;
+	public static sqlmanager Mysql;
 	
 	public static int tableid=1;
 	public static int id=0;

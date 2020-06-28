@@ -32,7 +32,7 @@ public class VersionManager implements Runnable {
 			this.version.put(version, res);
 			this.time.put(version, 0);
 		}
-		this.doout(out,service,res);
+		this.doout(out,service,res,version);
 	}
 	
 	
@@ -56,8 +56,8 @@ public class VersionManager implements Runnable {
 		return res;
 	}
 	
-	void doout(OutputStream out,service service,byte[] need) throws IOException {
-		out.write((""+need.length).getBytes());
+	void doout(OutputStream out,service service,byte[] need,int version) throws IOException {
+		out.write((version+"/"+need.length).getBytes());
 		out.flush();
 		if(service.get().equals("update begin")) {
 			out.write(need,0,need.length);

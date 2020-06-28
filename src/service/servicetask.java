@@ -27,7 +27,7 @@ public class servicetask {
 			res=this.createstr(pid, t);
 		}
 		else if(shuju.list.get(pid).table!=0&&shuju.list.get(pid).intable&&need.contains("|")) {
-			shuju.list.get(pid).tablestr1=id+"|"+need;
+			shuju.list.get(pid).tablestr1=id+"\\|"+need;
 			res=this.createstr(pid, shuju.Mytable.findtable(shuju.list.get(pid).table));
 		}
 		else if(need.equals("connect")) {
@@ -56,6 +56,31 @@ public class servicetask {
 			}
 			else {
 				res="out table lose";
+			}
+		}
+		else if(need.contains("login")) {
+			if(this.login(need.replace("login", ""))) {
+				res="login success";
+			}
+			else {
+				res="login lose";
+			}
+		}
+		else if(need.contains("regis")) {
+			System.out.println("regis");
+			if(this.regis(need.replace("regis", ""))) {
+				res="regis success";
+			}
+			else {
+				res="regis lose";
+			}
+		}
+		else if(need.contains("logout")) {
+			if(this.logout()) {
+				res="logout success";
+			}
+			else {
+				res="logout lose";
 			}
 		}
 		return res;
@@ -137,5 +162,43 @@ public class servicetask {
 		}
 		shuju.list.get(pid).change=bl;
 		return value;
+	}
+	
+	boolean login(String need) {
+		String need1[]=need.split("\\|");
+		if(need1.length==2) {
+			System.out.println(need1[1]);
+			if(shuju.Mysql.select("select password from user where uid = "+need1[0], "password").equals(need1[1])) {
+				System.out.println("yes"+need1[1]);
+				return true;
+			}
+		}
+		return false;
+	}
+	
+	boolean regis(String need) {
+		System.out.println(need);
+		String need1[]=need.split("\\|");
+		System.out.println(need1.length);
+		if(need1.length==2) {
+			if(shuju.Mysql.select("select count(0) from user where uid = "+need1[0], "count(0)").equals("0")) {
+				if(shuju.Mysql.add("insert into user values('"+need1[0]+"','"+need1[1]+"')")) {
+					return true;
+				}else {
+					System.out.println("thjis123123111");
+				}
+			}
+			else {
+				System.out.println("thjis123123");
+			}
+		}
+		else {
+			System.out.println("thjis");
+		}
+		return false;
+	}
+	
+	boolean logout() {
+		return false;
 	}
 }

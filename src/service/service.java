@@ -20,7 +20,7 @@ public class service implements Runnable{
 	
 	public boolean change=false;
 	
-	public boolean run=false;
+	public boolean run=true;
 	
 	public String tablestr1="";
 	public String color="";
@@ -70,7 +70,7 @@ public class service implements Runnable{
 	boolean check() throws IOException{
 		boolean res=true;
 		this.get();
-		res=shuju.Mycheck.runcheck(this.get());
+		//res=shuju.Mycheck.runcheck(this.get());
 		if(res) {
 			this.set("connect success");
 		}
@@ -115,7 +115,7 @@ public class service implements Runnable{
 	public String get() throws IOException {
 		byte[] need = new byte[1024];
 		String res = "";
-		
+
 		int i=0;
 		boolean run=true;
 		while(run) {
@@ -126,11 +126,12 @@ public class service implements Runnable{
 				run=false;
 			}
 		}
+		//System.out.println(res);
 		return res;
 	}
 	
 	void set(String need) throws IOException {
-		System.out.println(need);
+		//System.out.println(need);
 	    String message = need;
 		out.write(message.getBytes());
 		out.flush();

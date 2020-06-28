@@ -10,6 +10,7 @@ import service.service;
 import service.servicetask;
 import servicetable.table;
 import shuju.shuju;
+import sql.sqlmanager;
 
 public class server {
 	ServerSocket Myserver=null;
@@ -23,6 +24,7 @@ public class server {
 		shuju.Mycheck=new check();
 		shuju.Mytable=new table();
 		shuju.Mytask=new servicetask();
+		shuju.Mysql=new sqlmanager();
 		//shuju.vm=new VersionManager();
 		//new Thread(shuju.vm).start();
 		new Thread(this.Mycontroller).start();

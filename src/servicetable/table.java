@@ -10,6 +10,7 @@ public class table {
 			return true;
 		}
 		else {
+			System.out.print("have table"+shuju.list.get(shuju.Myserver.findid(id)).table);
 			return false;
 		}
 	}
